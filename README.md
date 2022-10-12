@@ -4,7 +4,7 @@
 
 * NPM Packages for Project
 * * NPM Packages for Project
-* npm i -D nodemon
+
 * npm i express
 * npm i pug
 * npm i -D browser-sync
